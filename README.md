@@ -1,6 +1,6 @@
 # PUBG Game Enhancement (ESP, Aimbot, Bullet Track, Safe Zone Prediction)
 
-![Menu Screenshot](images/menu-screenshot.png)
+![Menu Screenshot](https://github.com/ExploitTheLoop/BGMI-ESP-BT/blob/master/6223976910275328934.jpg)
 
 This project is a standalone executable designed to enhance PUBG Mobile with features like player ESP, bullet tracking, aimbot, safe zone prediction, enemy visibility checks, item ESP, and an intuitive ImGui menu for easy configuration.
 
